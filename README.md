@@ -75,7 +75,7 @@ We have performed:
 
 ## 👨‍💻 Contact
 
-**Data Engineer:** *[Kartavya Joshi]*  
+**Data Engineer:** *Kartavya Joshi*  
 **GitHub:** *github.com/Krtvy*  
 **LinkedIn:** *linkedin.com/in/krtvy*
 
