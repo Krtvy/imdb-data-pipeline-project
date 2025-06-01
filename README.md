@@ -75,8 +75,8 @@ We have performed:
 
 ## 👨‍💻 Contact
 
-**Data Engineer:** *[Your Name]*  
+**Data Engineer:** *[Kartavya Joshi]*  
 **GitHub:** *github.com/your-github*  
-**LinkedIn:** *linkedin.com/in/your-linkedin*
+**LinkedIn:** *linkedin.com/in/krtvvy*
 
 ---
